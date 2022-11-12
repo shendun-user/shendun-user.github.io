@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/undefined.html"/>
-    <id>http://example.com/posts/undefined.html</id>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
     <published>2022-11-11T16:26:00.225Z</published>
     <updated>2022-11-10T10:21:34.783Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/posts/undefined.html"/>
-    <id>http://example.com/posts/undefined.html</id>
+    <link href="http://example.com/posts/d87f7e0c.html"/>
+    <id>http://example.com/posts/d87f7e0c.html</id>
     <published>2022-11-10T15:52:59.000Z</published>
     <updated>2022-11-10T16:03:22.769Z</updated>
     
